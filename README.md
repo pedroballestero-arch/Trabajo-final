@@ -144,7 +144,11 @@ Integrantes:
   01/03/2026 Edwind hernando avila hernandez
 
  C.c 1101260281
-  
+##
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/422a1acf-9822-4f8b-978d-02a41f4628c7" width="600">
+</p>
+##
 
 
 
