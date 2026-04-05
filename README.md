@@ -1,155 +1,216 @@
-# Actas
-# Acta de entendimiento
-Proyecto: PrestaGO
 
-integrantes:
+<h1 align="center">🍀PRESTAGO </h1>
 
-+ Pedro David Ballestero Buelvas
-
-+ Edwin Hernando Avila Hernandez 
-
-+ Objetivo del acta
-
-Definir los objetivos comunes y las expectativas individuales de cada integrante del grupo, para asi tener un alcance de entendimiento compartido sobre el proposito y metas del proyecto PrestaGO
-
-+ Objetivos comunes 
-
-El equipo se compromete a crear un programa de python que permita la gestion del proyecto para gestionar su inventario, prestamos, recordatorios y notificaciones entre otros. asegurando que se cumplan los requisitos academicos y las entregas previstas. el objetivo es obtener un producto funcional que refleje las habilidades desarrolladas en el curso de algoritmos y programacion.
-
-+ Expectativas individuales 
-
-Pedro Ballestero: Espera obtener grandes habilidades en programacion, participar en los desarrollos de los codigos y mejores sus capacidades de rosolucion de problemas aplicados en este curso, ademas de esto busca afianzar su pensamiento analitico y ordenado.
-
-Edwin Avila: Espera fortaleces sus habilidades en la documentacion de proyectos ademas tambien busca adquirir mayor dominio de redaccion en el lenguage de programacion. apoyar la estructuracion de entregables
-
-En constancia de aceptacion de lo aqui estipulado, los imtegrantes firman la presente acta:
-
-+ 28/02/2026 Pedro David Ballestero Buelvas
-  
-  C.c 1069475336
-
-
-+ 28/02/2026 Edwin Hernando avila hernandez
-
-  C.c 1101260281
-
-  # Acta de colaboracion
-
-  Proyecto: PrestaGo
-
-  Integrabtes:
-
- + Pedro David Ballestero Buelvas
-
- + Edwin Hernando Avila Hernandez
-
- +  Objetivo del acta
-
-  Estableces la metodologia del trabajo en equipo, Canales de comunicacion, frecuencia de reuniones y estrategia de resolucion de conflictos para garantizar una colaboracion eficiente  en el desarrolo de PrestaGo
-
-  Metodologia de trabajo en equipo
-
-  El grupo acuerda trabajar de manera colaborativa mediante:
-
-   Reuniones periodicas para organizar, revisar los avances y toma de decisiones.
-Comunicacion costante y transparente entre los integrantes
- Organizacion de actividades en conjunto, aseguraando la participacion de cada uno de los integrantes
-    Responsabilidad individual en el cumplimiento de tareas asignadas
-
-  +  Canales de comunicacion
-
-     WhatsApp: canal principal de comunicacion por rapidez y agilidad
-    Github: respositorio oficial para almacenar el codigo, documentacion y entregables del proyecto
-
-  + El grupo se reunira al menos una vez por semana para revisar avances, discutir dudas y coordinar responsabilidades. En caso de ser necesasrio se convocara reuniones via WhatsApp
-
-   + Estrategias de resolucion de conflictos
-   + LOs desacuerdo seran abordados de forma respetuasa durante las reuniones grupales
-  + Se promera el dialogo abierto y la busqueda consensos
- + Si el conflinto persiste, el caso sera espuesto de docente del recursos, quien actuara como mediador neutral.
-
-  + En constancia de aceptacion de lo aqui estipulado, los integrates firman la presente acta:
-
-    01/03/2026 Pedro Davud Ballestero Buelvas
-
-    C.c 1069475336
-
-	+ 01/03/2026 Edwin Hernando Avla Hernadez
-
-    C.c 1101260281
-
-	# Acta de Responsabilidades
-
-Proecto: PrestaGo
-
-Integrantes:
-
-+ Pedro David Ballestero Bueolvas
-+ Edwin Hernando Avila Hernandez
-
-+ Objetivo del acta
-
-  Defininir las tereas especificas asignados a cada integrante del grupo, establece estrategia de avance, plazos intermedios y criterios de evaluacion que garanticen el cumplimiento exitoso del proyecto
-
-  + Estrategias de avance
- 
-    
-   Dividir el trabajo segun los puntos requeridos en la entrega
-
-  
-   Mantener reuniones semananalees de seguimiento para verificar avances
-
-  
-   subir progresivamente la documentacion al repositorio en Github para reunir la informacion
-
-  
-   Definir plazos intermedios antes de la fecha de entrega para poder revisarla en equipo
-
-  
-   Priorizar la organizacion y claridad de los documentos, dejar las creacion del codigo para la siguiente parte
- 
-  + Asignacion de responsabilidades
- 
-  + Pedro David Ballestero Buelvas
-    
-   1. Encargado de la redaccion inicial de requisitos y apoyo en la descripcion general de proyecto
-
-	2. Organiza tiempos y distribuye tareas a los demas miembros
-
-    3. apoyo en la contruccion del plan proyecto
-
-    4. Plazo: borrador listo en la semana 6 para revison grupal
-       
-    5. Creador del repositorio
-  
-
-	+  Edwin Hernando Avila Hernandez
-
-   1. Encaragdo de la revison sobre posibles funcionalidades del sistema y la prepacion del informe visual
-   2. apoyo en al definicion de la licencia del software
-   3. Plazo: borrador listo en la semana 6 para la resision grupal
- 
-      * Cirterios de evaluacion:
-        1. cumplimiento de los plazos intermedios establecidos
-        2. calidad y claridad de la redaciion de los documentos
-        3. participacion activa en reuniones y discusiones
-        4. aporte equitativo y compromiso con el proyecto
-       
-      En contancia de aceptacion de lo aqui estipualado, los integrantes firman la siguiente acta
-
-  01/03/2026 Pedro David Ballestero
-
-  C.c 1069475336
-
-  01/03/2026 Edwind hernando avila hernandez
-
- C.c 1101260281
-##
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/422a1acf-9822-4f8b-978d-02a41f4628c7" width="600">
+  <img src="https://github.com/user-attachments/assets/422a1acf-9822-4f8b-978d-02a41f4628c7" width="500">
 </p>
-##
+
+---
 
 
+## Licencia
+
+## Integrantes
+
+### Pedro Ballestero
+- Soy una persona responsable y enfocada que siempre busca aprender cosas nuevas, por eso el paso por la programación me emociona mucho porque me va a ayudar a descubrir y desarrollar habilidades que antes no tenia
+
+### Edwin Avila
+- Soy una 
+
+---
+
+## Vínculos académicos y descripción
+
+### 🍀Pedro Ballestero
+
+**Programa:**
+- Ingeniería Industrial
+
+**Habilidades:**
+- Comunicación asertiva  
+- Adaptabilidad frente a cambios y nuevos retos  
+- Aprendizaje rápido  
+- Planificación de las tereas  
+
+**Fortalezas:**
+- Empático con los demás  
+- Paciente  
+- Responsable  
+- Carismático  
+
+
+### 🍀Edwin Avila
+
+**Programa:**
+- Ingeniería Industrial
+
+**Habilidades:**
+- Pensamiento analítico  
+- Creatividad para enfrentar nuevos retos  
+- Trabajo en equipo  
+- Organización y planificación de tareas y de tiempo  
+- Creatividad para proponer ideas y soluciones  
+
+**Fortalezas:**
+- Perseverancia para cumplir mir objetivos  
+- Actitud positiva  
+- Colaborador  
+- Responsabilidad  
+
+---
+
+## 🍀Nombre del proyecto y detalles
+
+
+PrestaGO es un programa de consola en Python diseñado para gestionar el préstamo de objetos personales de manera organizada y eficiente. Este sistema permitirá a MJ llevar un control claro de su inventario y de los artículos que presta, facilitando el seguimiento de cada préstamo y evitando pérdidas de información.
+
+El sistema permite registrar usuarios, consultar la disponibilidad de ítems, crear y gestionar préstamos, registrar devoluciones, generar certificados y emitir facturas en caso de incumplimiento en los tiempos establecidos. Además, controla automáticamente las condiciones de préstamo y venta según las reglas definidas.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/422a1acf-9822-4f8b-978d-02a41f4628c7" width="500">
+</p>
+
+---
+
+## Reporte de visión
+
+El sistema Gestor de Préstamos (PrestaGo) es una solución tecnológica diseñada para optimizar la administración de préstamos de objetos personales de MJ, facilitando el control de inventario, usuarios y transacciones. Más que un simple registro, el software funciona como una herramienta integral que permite gestionar de manera organizada y automatizada los préstamos, devoluciones y ventas de artículos.
+
+el sistema busca facilitar los registros de prestamos que hace MJ y asi tener un control e inventario de todo, ofreciendo un proceso claro, confiable y eficiente para el manejo de la información. Además, permite centralizar los datos en archivos planos, facilitando su consulta, almacenamiento y exportación.
+
+
+
+Objetivos
+
+- Ofrecer un sistema de registro y administración de usuarios, con validación de datos  
+- Permitir el registro y control de ítems, incluyendo categoría, estado e identificación única  
+- Gestionar los préstamos de objetos, asegurando control de fechas y disponibilidad  
+- Automatizar el proceso de devoluciones, generando certificados correspondientes  
+- Implementar la generación automática de ventas cuando se superen los tiempos establecidos  
+- Proporcionar notificaciones y recordatorios para la recuperación de objetos  
+- Permitir la consulta del estado general de los préstamos mediante estadísticas básicas  
+- Garantizar una experiencia de usuario mediante una interfaz de consola clara, intuitiva y estructurada  
+
+
+
+Beneficios
+
+- Facilita el control de préstamos sin necesidad de llevar registros manuales  
+- Reduce errores asociados a la pérdida de información o mala memoria  
+- Mejora la organización y trazabilidad de los objetos prestados  
+- Permite generar documentos como certificados y facturas automáticamente  
+- Brinda acceso rápido a la información mediante almacenamiento en archivos planos  
+- Permite obtener datos estadísticos sobre préstamos, devoluciones y ventas  
+- Ofrece una solución adaptable a futuras mejoras, como interfaces gráficas o bases de datos  
+- Garantiza disponibilidad inmediata de la información para consultas en tiempo real  
+
+---
+
+<h2 align="center">Requisitos PrestaGo</h2>
+
+### Requisitos Funcionales
+
+#### 1. Gestión de usuarios
+- El sistema debe permitir registrar usuarios con:  
+  - Nombre (mínimo 3 letras, sin números)  
+  - Apellido (mínimo 3 letras, sin números)  
+  - Documento (entre 3 y 15 dígitos, solo números)  
+  - Correo electrónico válido (@ y .com)  
+  - Tiempo de préstamo (solo 5, 10, 15 o 30 días)  
+
+#### 2. Gestión de ítems
+- El sistema debe permitir registrar ítems con:  
+  - Nombre (mínimo 3 caracteres)  
+  - Categoría (videojuegos, libros, música y video, herramientas, dinero, misceláneo)  
+  - Precio de compra  
+  - ID único alfanumérico basado en la categoría  
+  - Estado del ítem usando lógica difusa  
+
+#### 3. Gestión de préstamos
+- Permitir registrar préstamos solo a usuarios existentes  
+- Permitir seleccionar ítems por ID  
+- Validar disponibilidad del ítem  
+- Registrar fecha de préstamo  
+- Mostrar mensaje si el usuario no existe  
+
+#### 4. Gestión de devoluciones
+- Permitir devolver solo préstamos activos  
+- Validar si el usuario tiene préstamos  
+- Generar certificado de devolución en archivo de texto  
+- Incluir:  
+  - Datos del usuario  
+  - ID del ítem  
+  - Fecha de devolución  
+
+#### 5. Gestión de ventas
+- Generar venta automática si el préstamo supera 30 días  
+- Calcular:  
+  - Subtotal  
+  - Impuesto del 23%  
+  - Total a pagar  
+- Generar factura en archivo de texto o PDF
+
+#### 6. Notificaciones
+- Generar recordatorios después de 20 días  
+- Notificar solicitud de devolución  
+
+#### 7. Consultas
+- Mostrar estado general de préstamos  
+- Ordenar por cantidad de días  
+- Leer información desde archivos planos  
+
+#### 8. Administración
+- Permitir acceso con usuario y contraseña  
+- Mostrar:  
+  - Total de préstamos  
+  - Total de devoluciones  
+  - Total de ventas  
+  - Total pagado  
+  - Lista de usuarios  
+  - Usuario con más y menos préstamos  
+
+---
+
+### Requisitos No Funcionales
+
+#### 1. Usabilidad
+- Interfaz en consola clara y fácil de usar  
+- Menú organizado  
+- Mensajes de error comprensibles  
+
+#### 2. Rendimiento
+- El sistema debe responder rápidamente a las operaciones  
+- Manejo eficiente de archivos planos  
+
+#### 3. Seguridad
+- Validación de usuario y contraseña en módulo administrador  
+- Validación de datos ingresados (evitar errores o datos inválidos)  
+
+#### 4. Fiabilidad
+- El sistema debe evitar pérdida de información  
+- Manejo de errores en entradas incorrectas  
+
+#### 5. Persistencia
+- Almacenamiento de datos en archivos planos  
+- Exportación de datos a formato CSV  
+
+---
+
+## Plan proyecto
+
+## Presupuesto
+
+### Pedro Ballestero
+- Inversión por semana (10 horas): $72.950  
+- Inversión total del trabajo (16 semanas): $1.167.200  
+
+### Edwin Ávila
+- Inversión por semana (10 horas): $72.950  
+- Inversión total del trabajo (16 semanas): $1.167.200  
+
+### Inversión grupal
+- Inversión por semana (20 horas): $145.900  
+- Inversión total del trabajo (16 semanas): $2.334.400  
 
 
