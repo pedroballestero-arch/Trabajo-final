@@ -199,6 +199,12 @@ Beneficios
 
 ## Plan proyecto
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7212e011-a696-4443-8555-6312818aa798" width="1000">
+</p>
+
+---
+
 ## Presupuesto
 
 ### Pedro Ballestero
