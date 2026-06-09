@@ -1,0 +1,76 @@
+<div align="center">
+       <h1><b>Manual de Usuario PRESTAGO</b></h1>
+</div>
+
+# ¿Qué es PRESTAGO?
+
+PRESTAGO es un sistema de gestión de préstamos desarrollado en Python. Permite registrar usuarios, ítems, préstamos, devoluciones y ventas, generando documentos de soporte en formato TXT y PDF de forma automática.
+
+Para ejecutar el programa instala la dependencia necesaria con `pip install reportlab` y luego ejecuta `python prestago.py` en tu terminal.
+
+> En cualquier campo puedes escribir `0` para cancelar y volver al menú anterior.
+
+# Funcionalidades del sistema
+
+**1. Registrar Usuario**
+- Ingresa el nombre y apellido del usuario (mínimo 3 letras, sin números).
+- El documento solo acepta números y debe tener entre 3 y 15 dígitos.
+- El correo debe contener `@` y terminar en `.com`.
+- El tiempo de préstamo solo puede ser de 5, 10, 15 o 30 días.
+
+**2. Registrar Ítem**
+- Ingresa el nombre del ítem (mínimo 3 letras, puede tener números).
+- Selecciona una categoría: Videojuegos, Libros, Música y video, Herramientas, Dinero o Misceláneo y varios.
+- Registra el precio de compra del ítem.
+- Califica el estado del ítem del 0 al 10. El sistema lo convierte automáticamente en: Muy malo (0-2), Malo (3-4), Regular (5-6), Bueno (7-8) o Excelente (9-10).
+- El ID se genera automáticamente según la categoría: `VJ001`, `LB001`, `MV001`, `HE001`, `DI001`, `MS001`.
+
+**3. Registrar Préstamo**
+- El sistema muestra los ítems disponibles para seleccionar.
+- Ingresa el ID del ítem y el documento del usuario que lo recibirá.
+- Si el usuario no está registrado, primero debes crearlo en la opción 1.
+- Puedes ingresar una fecha de inicio en formato `AAAA-MM-DD` o presionar Enter para usar la fecha actual.
+
+**4. Registrar Devolución**
+- Ingresa el documento del usuario para ver sus préstamos activos.
+- Selecciona el ID del préstamo a devolver.
+- Si la devolución se hace a tiempo, el sistema genera un certificado en `.txt` y `.pdf`.
+- Si la devolución es tardía, se registra pero no se emite certificado.
+- Los préstamos con más de 30 días deben procesarse desde la opción 5.
+
+**5. Generar Venta**
+- Cuando un ítem lleva más de 30 días prestado, el sistema obliga su venta al usuario.
+- Se cobra el precio de compra más un impuesto del 23%.
+- El sistema genera una factura en `.txt` y `.pdf` con el detalle del cobro.
+- Una vez vendido, el ítem no vuelve a estar disponible para préstamo.
+
+**6. Consultar Estado General**
+- Muestra todos los préstamos ordenados por cantidad de días.
+- Clasifica cada préstamo como En tiempo, Vencido, Solicitud enviada (21-30 días) o Venta pendiente (más de 30 días).
+- Cuando un préstamo supera los 20 días se genera automáticamente una carta de solicitud de devolución.
+- Toda la información se guarda en un archivo `estado_general_AAAA-MM-DD.txt`.
+
+**7. Administrador**
+- Accede con usuario `admin` contraseña `1234` o usuario `gestor` contraseña `abcd`.
+- Consulta el total de préstamos, devoluciones y ventas realizadas.
+- Revisa el monto total cobrado por ventas.
+- Visualiza la lista completa de usuarios registrados.
+- Identifica el usuario con más y menos préstamos en el sistema.
+
+# Archivos generados por el sistema
+
+**Certificado de devolución**
+- Se genera cuando el usuario devuelve el ítem a tiempo.
+- Nombre del archivo: `Nombre_Apellido_Fecha_ID_certificado.txt` y `.pdf`
+
+**Factura de venta**
+- Se genera cuando un préstamo supera los 30 días.
+- Nombre del archivo: `Nombre_Apellido_ID_factura.txt` y `.pdf`
+
+**Solicitud de devolución**
+- Se genera automáticamente cuando un préstamo lleva entre 21 y 30 días.
+- Nombre del archivo: `Nombre_Apellido_ID_solicitud.txt`
+
+**Reporte de estado general**
+- Se genera cada vez que se consulta el estado general del sistema.
+- Nombre del archivo: `estado_general_AAAA-MM-DD.txt`
